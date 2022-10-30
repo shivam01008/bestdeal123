@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963370722632",
+    "project_id": "best-deal-d2bcc",
+    "storage_bucket": "best-deal-d2bcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963370722632:android:42e05a3cbd81af0850bf7d",
+        "android_client_info": {
+          "package_name": "com.examole.bestdeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963370722632-h6005sa9hfv0t24lsj20g2nafqu2v5qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI8QcWBkV0Mxp98EMGp_Atqbo0ryhPtNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963370722632-h6005sa9hfv0t24lsj20g2nafqu2v5qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

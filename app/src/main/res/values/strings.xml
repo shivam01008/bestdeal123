@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">best deal</string>
+
+    <string name="first_slide">Choose your products</string>
+    <string name="second_slide">first Delviarey</string>
+    <string name="third_slide">good service</string>
+
+    <string name="description">thank you </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
